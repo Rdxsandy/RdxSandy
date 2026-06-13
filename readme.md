@@ -1,11 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=220&section=header&text=SUNDEEP GANGWAr&fontSize=65&fontColor=00FF00&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=220&section=header&text=SUNDEEPGANGWAR&fontSize=65&fontColor=00FF00&animation=fadeIn"/>
 </p>
 
-<p align="center">
-  <img src="https://github.com/Rdxsandy/Rdxsandy/blob/main/Rdxsandy.gif" width="160"/>
-</p>
- 
+
  
  ㅤㅤ[![GIF](https://github.com/RdxSandy/RdxSandy/blob/main/RdxSandy.gif)](https://github.com/RdxSandy)
    [![Team_xt�](https://github-stats-alpha.vercel.app/api?username=RdxSandy "RdxSandy")](https://github-stats-alpha.vercel.app/api?username=RdxSandy "RdxSandy")
